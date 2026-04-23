@@ -47,6 +47,7 @@ Este projeto simula um cenário real de contratação pública de TI, integrando
 O objetivo é demonstrar capacidade prática de atuação como Product Owner no setor público.
 
 ## Caso de Uso Real
+## Projeto baseado em experiência real (anonimizado)
 
 Este projeto simula a aplicação em órgãos públicos como:
 - Secretarias 
