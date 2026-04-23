@@ -32,3 +32,10 @@ Para reduzir tempo e padronizar documentos
 - Exportar em PDF  
 
 **Prioridade:** Alta
+
+## Priorização (WSJF)
+
+| Funcionalidade | Valor | Urgência | Risco | Esforço | Prioridade |
+|------------- --|----- -|---- -----|--- ---|----- ---|------------|
+| Geração ETP    | 9     | 8        | 7     | 5       | Alta       |
+| TR             | 10    | 9        | 8     | 6       | Muito Alta |
