@@ -34,3 +34,14 @@ Sistema que automatiza:
 - Órgãos públicos
 - Empresas GovTech
 - Consultorias de TI
+
+## Diferencial do Projeto
+
+Este projeto simula um cenário real de contratação pública de TI, integrando:
+
+- Gestão de backlog (Scrum)
+- Elaboração de documentos (ETP e TR)
+- Governança de TI
+- Aplicação de Inteligência Artificial
+
+O objetivo é demonstrar capacidade prática de atuação como Product Owner no setor público.
