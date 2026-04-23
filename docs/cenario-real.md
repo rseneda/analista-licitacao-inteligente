@@ -1,7 +1,7 @@
 # Cenário Real Simulado
 
 ## Órgão
-Secretaria Estadual de Administração (SEAD)
+Secretaria Estadual
 
 ---
 
