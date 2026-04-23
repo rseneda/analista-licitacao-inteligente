@@ -103,3 +103,8 @@ A adoção da solução proposta permite transformar o processo de contratação
 - Automação de documentos
 - Uso de IA
 - Governança definida
+
+- ## Impacto Financeiro Estimado
+
+- Redução de 30% no tempo de elaboração
+- Economia operacional estimada em R$ X por processo
