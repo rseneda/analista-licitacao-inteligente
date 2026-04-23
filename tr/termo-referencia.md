@@ -48,5 +48,7 @@ A solução deverá ser implementada utilizando metodologia ágil, com backlog p
 ## Rastreabilidade
 
 RF01 → US01
+
 RF02 → US03
+
 RF03 → US04
