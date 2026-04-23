@@ -42,4 +42,6 @@ Para reduzir tempo e padronizar documentos
 | Geração ETP    | 9     | 8        | 7     | 5       | Alta       |
 | TR             | 10    | 9        | 8     | 6       | Muito Alta |
 
+
 Valor: Redução de 40% no tempo de elaboração de documentos
+Esforço: Médio (integração com templates e regras)
