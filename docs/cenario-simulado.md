@@ -90,3 +90,16 @@ Implantação da Plataforma de Licitação Inteligente com:
 ## Conclusão
 
 A adoção da solução proposta permite transformar o processo de contratação de TI, tornando-o mais eficiente, padronizado e orientado a dados.
+
+## Comparação
+
+### AS-IS (Atual)
+- Processo manual
+- Sem padronização
+- Alto retrabalho
+
+### TO-BE (Proposto)
+- Sistema estruturado
+- Automação de documentos
+- Uso de IA
+- Governança definida
