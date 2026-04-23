@@ -52,3 +52,10 @@ Este projeto simula a aplicação em órgãos públicos como:
 - Secretarias 
 - Tribunais
 - Órgãos de controle
+
+- ## Impacto do Projeto
+
+- Redução estimada de até 30% no tempo de elaboração de ETP/TR
+- Diminuição de retrabalho entre áreas técnicas e administrativas
+- Aumento da padronização e qualidade dos documentos
+- Maior segurança na contratação de soluções de TI
